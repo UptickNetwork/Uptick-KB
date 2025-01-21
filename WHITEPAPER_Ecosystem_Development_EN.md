@@ -109,7 +109,9 @@ The e-commerce sector has transformed over the past two decades, driven by centr
 
 Demand for alternatives has grown. Web3 shifts control from centralized entities to decentralized networks, enhancing transparency, security, and user autonomy. A defining characteristic of Web3 e-commerce is tokenization, turning physical products and services into on-chain tokenized assets (RWA). Once established, these assets can connect with decentralized financial systems (DeFi), enabling innovative business models through single or multi-product combinations and creating opportunities for both primary and secondary markets.
 
-**4.1.2 Addressing Core Challenges** **Data Control and Privacy**&#x20;
+**4.1.2 Addressing Core Challenges** 
+
+**Data Control and Privacy**&#x20;
 
 Centralized platforms amass user data without transparency or consent, raising privacy concerns. Web3 decentralizes data control, returning ownership to users, enhancing privacy, and rebuilding trust. On-chain assets carry attributes like authenticity and traceability, offering verifiable transactions.
 

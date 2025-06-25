@@ -207,7 +207,7 @@ Uptick's infrastructure enables creators to tokenize both digital and physical c
 
 Traditional platforms moderate content, often leading to demonetization or removal without clear reasons. Web3 platforms reduce censorship risks by eliminating centralized control. Distributed content storage enhances resilience, protecting creators from takedowns and safeguarding freedom of expression.
 
-Uptick decentralizes content storage using off-chain decentralized networks and supports dynamic NFT standards that enable creators to update metadata or access rights, such as time-gating content or adjusting licensing terms
+Uptick decentralizes content storage using off-chain decentralized networks and supports dynamic NFT standards that enable creators to update metadata or access rights, such as time-gating content or adjusting licensing terms.
 
 **Community Building and Direct Engagement**&#x20;
 
@@ -396,7 +396,13 @@ DIDs protect user profiles from centralized manipulation. A driver banned unfair
 
 **Interoperable Cross-Platform Resource Sharing**&#x20;
 
-Uptick’s Cross-chain Bridge (UCB) and Inter-Blockchain Communication (IBC) protocols enable the transfer of assets, such as rental agreements or shared digital services, across different blockchain ecosystems. This feature allows users to participate in the sharing economy across multiple platforms, creating a connected and adaptable ecosystem. With the ability to move assets between networks, Uptick’s infrastructure empowers users to access a broader range of services while preserving the integrity of contracts and data. This cross-chain functionality expands the flexibility and reach of the sharing economy, helping users engage seamlessly across various blockchain environments.
+Uptick’s Cross-chain Bridge (UCB) and Inter-Blockchain Communication (IBC) protocols enable the transfer of assets, such as rental agreements or shared digital services, across different blockchain ecosystems. This feature allows users to participate in the sharing economy across multiple platforms, creating a connected and adaptable ecosystem. With the ability to move assets between networks, Uptick’s infrastructure empowers users to access a broader range of services while preserving the integrity of contracts and data. This cross-chain functionality expands the flexibility and reach of the sharing economy, helping users engage seamlessly across various blockchain environments. This means a rental contract could be initiated on Uptick, with payment made in USDC on another chain, and user identity verified on a third chain. Coordination becomes modular, rather than monolithic.
+
+**Data Storage and Access**&#x20;
+
+Uptick integrates decentralized storage to record metadata such as booking histories, service records, or reviews. This data remains accessible, censorship-resistant, and verifiable.
+
+Anchoring service data on-chain or via decentralized storage like IPFS gives both users and platforms a shared source of truth. Drivers can provide verifiable records of completed trips, renters can prove their rental history and reviews, and disputes can be resolved more objectively using transparent blockchain records.
 
 **Decentralized Customer Relationship Management (DCRM)**&#x20;
 

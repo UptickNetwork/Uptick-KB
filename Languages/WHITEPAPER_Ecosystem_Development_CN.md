@@ -847,6 +847,7 @@ Uptick Network 的基础设施连接了 Web3 和实体经济，重塑了价值�
 
 _**“预测未来的最好方法就是创造未来”**_ _**—** Alan Kay_
 
+
 ## 8. 参考文献
 
 * Uptick Network (2024, August 28). _Just DAO It: Decentralizing Decision-Making_. [Medium](https://medium.com/uptick-network/just-dao-it-decentralizing-decision-making-f4b4f630abf9)

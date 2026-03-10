@@ -104,7 +104,7 @@ Uptick Network 整合了预言机、IPFS、DID 等基础组件，形成了稳固
 
 **生态应用层** 是开放的生态应用体系，既包含 Uptick Network 团队打造的通用 NFT 交易平台，以及依托多年行业经验构建的各类应用，更重要的是，它将汇聚全球商业应用开发者与运营者打造的生态应用。我们相信，高品质的 NFT 基础设施平台与有效的激励机制，将吸引大量优质商业应用在 Uptick Network 落地。
 
-<img src="./image/FourMainLayers.jpg" style="width: 90%;">
+<img src=".././image/FourMainLayers.jpg" style="width: 90%;">
 <div align="center">图 1. Uptick Network 技术架构</div>
 
 ### 3. Uptick 链

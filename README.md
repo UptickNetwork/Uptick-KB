@@ -22,8 +22,11 @@ The development and expansion of Uptick Network is driven by a combination of th
 #### For more details, please refer to the full whitepaper: 
 
 · [Technical White Paper-EN](WHITEPAPER_Technical.md)
+
 · [Technical White Paper-CN](Languages/WHITEPAPER_Technical_CN.md)
+
 · [Technical White Paper-TN](Languages/WHITEPAPER_Technical_TC.md)
+
 
 
 ## Tokenomics White Paper
@@ -37,8 +40,11 @@ Furthermore, Uptick Network intends to introduce a long-term performance based d
 #### For more details, please refer to the full whitepaper:
 
 · [Tokenomics White Paper-EN](WHITEPAPER_Tokenomics.md)
+
 · [Tokenomics White Paper-CN](Languages/WHITEPAPER_Tokenomics_CN.md)
+
 · [Tokenomics White Paper-TC](Languages/WHITEPAPER_Tokenomics_TC.md)
+
 
 ## Ecosystem Development White Paper
 

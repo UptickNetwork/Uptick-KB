@@ -499,13 +499,40 @@ Uptick Network 基础设施的主要组件可总结如下：
 
 
 ### 10. 参考文献
-[1] Cosmos-SDK Official Documentation: https://docs.cosmos.network/
-[2] Inter-Blockchain Communication (IBC) Protocol Specification: https://ibc.cosmos.network/
-[3] ERC-721: Non-Fungible Token Standard: https://eips.ethereum.org/EIPS/eip-721
-[4] CW-721: CosmWasm NFT Standard: https://github.com/CosmWasm/cw-nfts
-[5] zk-SNARKs: Zero-Knowledge Proofs for Scalable Blockchains
-[6] W3C Decentralized Identifiers (DID) Specification: https://www.w3.org/TR/did-core/
-[7] IPFS Documentation: https://docs.ipfs.tech/
-[8] Chainlink Oracle Network: https://docs.chain.link/
-[9] Real-World Asset Tokenization: State of the Industry Report (2023)
-[10] Layer 2 Scaling Solutions for Blockchains: A Comprehensive Review
+
+[1]: http://ethdocs.org/en/latest/
+[2]: https://cosmos.network/whitepaper
+[3]: https://polkadot.io/
+[4]: https://tendermint.readthedocs.io/en/master/
+[5]: https://ethermint.zone/
+[6]: https://github.com/cosmos/ibc/blob/master/README.md
+[7]: https://ethereum.org/en/developers/docs/scaling/zk-rollups/
+[8]: https://ethereum.org/en/developers/docs/evm/
+[9]: https://ethresear.ch/t/bringing-ibc-to-ethereum-using-zk-snarks
+[10]: https://github.com/iden3/circom
+[11]: https://github.com/iden3/go-iden3-core
+[12]: https://github.com/matter-labs/awesome-zero-knowledge-proofs
+
+
+* [1] Ethereum Foundation, "Ethereum Homestead Documentation",
+  http://ethdocs.org/en/latest/
+
+* [2] Jae Kwon, Ethan Buchman，"Cosmos, A Network of Distributed
+  Ledgers", https://cosmos.network/whitepaper
+
+* [3] Gavin Wood, "Polkadot: Vision For a Heterogeneous Muilti-chain
+  Framework", https://polkadot.io/
+
+* [4] Tendermint, https://tendermint.com/docs/
+
+* [5] Ethermint, https://ethermint.zone/
+
+* [6] Ethan Frey, "Cosmos IBC Specification", Sep. 29, 2017,
+  https://github.com/cosmos/ibc/blob/master/README.md
+
+* [7] Smart contracts,https://en.bitcoin.it/wiki/Contract
+* [8] ETHEREUM VIRTUAL MACHINE,https://ethereum.org/en/developers/docs/evm/
+* [9] Bringing IBC to Ethereum using ZK-Snarks,https://ethresear.ch/t/bringing-ibc-to-ethereum-using-zk-snarks
+* [10] zkSnark circuit compiler,https://github.com/iden3/circom
+* [11] Go core implementation of the iden3 system ,https://github.com/iden3/go-iden3-core
+* [12] A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP). ,https://github.com/matter-labs/awesome-zero-knowledge-proofs

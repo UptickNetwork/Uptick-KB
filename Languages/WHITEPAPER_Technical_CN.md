@@ -129,8 +129,8 @@ Uptick 链支持基于跨链协议 ICS-721 的 EVM 合约跨链转移功能。
 - **开源且社区驱动**：Cosmos 是开源的社区主导型项目，源码与文档均托管于 GitHub。开发者与社区成员可积极参与项目开发维护，推动整个 Cosmos 生态的发展与创新。
 
 ##### Uptick Network 选择 Cosmos 的核心原因：
-1. 借助 Tendermint 共识，实现 P2P 网络底层与 BFT 共识的高安全性和稳定性；
-2. 通过 Cosmos 提供的 IBC 协议，实现 Cosmos 生态内或支持 IBC 标准的网络中 FT/NFT 资产的跨链转移：
+- 借助 Tendermint 共识，实现 P2P 网络底层与 BFT 共识的高安全性和稳定性；
+- 通过 Cosmos 提供的 IBC 协议，实现 Cosmos 生态内或支持 IBC 标准的网络中 FT/NFT 资产的跨链转移：
    - 基于 ICS-20 标准的 FT 跨链转移协议：支持 Cosmos 生态内多链 FT 跨链至 Uptick 链，以及 FT 资产转换为 EVM 体系的 ERC20 代币；通过 UCB 等基础模块，可跨链至以太坊、币安智能链、Polygon 等 EVM 生态；
    - 基于 ICS-27 的跨链账户管理协议：优化跨链交互体验，用户无需感知跨链过程，仅需维护单一操作界面；
    - 基于 ICS-721 标准的 NFT 跨链转移协议：实现 IBC 互联区块链（包括同构链与异构链）间的 NFT 互操作；尽管 IBC-NFT 跨链仍处于基础设施建设初期，商业场景尚未充分挖掘，但 Uptick Network 将率先布局跨链 NFT 基础设施，成为首批落地商业应用的公链之一；
